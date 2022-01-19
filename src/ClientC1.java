@@ -20,6 +20,6 @@ public class ClientC1 {
 	}
 
 	public static void main(String[] args) {
-		recieveDataPacket("localhost", 7000);
+		recieveDataPacket("localhost", 7000);w
 	}
 }
